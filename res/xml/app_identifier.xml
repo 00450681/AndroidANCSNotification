@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IdentifierMap>
+    <Identifier>
+        <android name="com.android.phone" />
+        <ios name="com.apple.mobilephone" />
+    </Identifier>
+    <Identifier>
+        <android name="com.facebook.katana" />
+        <ios name="com.facebook.Facebook" />
+    </Identifier>
+    <Identifier>
+        <android name="com.twitter.android" />
+        <ios name="com.atebits.Tweetie2" />
+    </Identifier>
+    <Identifier>
+        <android name="com.tencent.mobileqq" />
+        <ios name="com.tencent.mqq" />
+    </Identifier>
+    <Identifier>
+        <android name="com.tencent.mm" />
+        <ios name="com.tencent.xin" />
+    </Identifier>
+    <Identifier>
+        <android name="com.google.android.email|com.google.android.gm" />
+        <ios name="com.apple.mobilemail" />
+    </Identifier>
+</IdentifierMap>

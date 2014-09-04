@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AttributeSet>
+    <attribute name="com.bde.ancs.androidancs" >
+        <appIdentifier name="com.bde.ancs.androidancs" />
+        <categoryID name="0"/>
+    </attribute>
+    <attribute name="com.google.android.dialer" >
+        <appIdentifier name="com.apple.mobilephone" />
+        <categoryID name="1"/>
+    </attribute>
+    <attribute name="com.android.phone" >
+        <appIdentifier name="com.apple.mobilephone" />
+        <categoryID name="2"/>
+    </attribute>
+    <attribute name="com.android.mms|com.google.android.talk|com.htc.sense.mms">
+        <appIdentifier name="com.apple.MobileSMS"/>
+        <categoryID name="4"/>
+    </attribute>
+    <attribute name="com.facebook.katana" >
+        <appIdentifier name="com.facebook.Facebook" />
+        <categoryID name="4"/>
+    </attribute>
+    <attribute name="com.twitter.android" >
+        <appIdentifier name="com.atebits.Tweetie2" />
+        <categoryID name="4"/>
+    </attribute>
+    <attribute name="com.tencent.mobileqq" >
+        <appIdentifier name="com.tencent.mqq" />
+        <categoryID name="4"/>
+    </attribute>
+    <attribute name="com.tencent.mm" >
+        <appIdentifier name="com.tencent.xin" />
+        <categoryID name="4"/>
+    </attribute>
+    <attribute name="com.google.android.email|com.google.android.gm" >
+        <appIdentifier name="com.apple.mobilemail" />
+        <categoryID name="6"/>
+    </attribute>
+</AttributeSet>
+
+<!-- <CategoryMap>
+
+    <Category id="4" >
+        <app name="com.facebook.katana" />
+        <app name="com.twitter.android" />
+        <app name="com.tencent.mobileqq" />
+        <app name="com.tencent.mm" />
+        <app name="com.facebook.katana" />
+    </Category>
+    <Category id="6" >
+        <app name="com.google.android.email" />
+        <app name="com.google.android.gm" />
+    </Category>
+
+</CategoryMap> -->
